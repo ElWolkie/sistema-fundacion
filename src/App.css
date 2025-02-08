@@ -1,0 +1,12 @@
+/* App.css */
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-content {
+  margin-left: 250px; /* Ajusta según el ancho del Sidebar */
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #fff;
+}
