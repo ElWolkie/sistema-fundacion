@@ -4,9 +4,9 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   server: {
-    port: 3000, // Puerto de desarrollo
+    port: Number(process.env.PORT) || 3000, // Convierte process.env.PORT a número
   },
   build: {
-    outDir: "dist", // Carpeta de salida para la construcción
+    outDir: "dist",
   },
 });

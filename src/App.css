@@ -8,5 +8,5 @@
   margin-left: 250px; /* Ajusta según el ancho del Sidebar */
   padding: 20px;
   flex-grow: 1;
-  background-color: #fff;
+  background-color: #fff; /* Fondo blanco para el contenido principal */
 }
