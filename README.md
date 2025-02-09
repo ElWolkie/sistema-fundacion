@@ -13,7 +13,7 @@ Este es un sistema administrativo desarrollado con React, TypeScript y Material-
 1. Clona el repositorio:
 
 ```bash
-   git clone https://github.com/tu-usuario/sistema-fundacion.git
+   git clone https://github.com/ElWolkie/sistema-fundacion.git
 ```
 
 2. Instala dependencias
